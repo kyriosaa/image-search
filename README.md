@@ -1,7 +1,7 @@
-Image searching website with alt descriptions of the photos listed underneath.
+# Image Search Website
 
-Used Unsplash's API to help with the image search and descriptions.
+**Description**
 
-Live website listed at the description of this project.
+A website built with React that searches for images and gives alt descriptions of any prompt given by the user. Enables users to search for any image hosted on Unsplash. 
 
-Personal project.
+Website listed at the description of this repository.
