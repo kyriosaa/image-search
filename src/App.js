@@ -1,4 +1,4 @@
-import "bulma/css/bulma.css";
+import "./css/bulma.css";
 import { useState } from "react";
 import SearchBar from "./components/SearchBar";
 import ImageList from "./components/ImageList";
